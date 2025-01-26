@@ -1,2 +1,2 @@
 # Java
-Contains all my code I'm learning
+This repository focuses on learning Data Structures and Algorithm using java
