@@ -6,6 +6,7 @@ public class halfpyramid2{
             for(int j=1; j<=n-i; j++){
                 System.out.print(" ");
             }
+            // inner loop2 to print star
             for(int j=1; j<=i; j++){
                 System.out.print("*");
             }
